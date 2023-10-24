@@ -1,3 +1,11 @@
+# React Day 1 Exercise
+
+Note, if you look up any external resources, they need to be based around Classes, not Functional React
+
+- Create a standard webpage using multiple Components
+- Pass Props into a child and use that prop inside the child
+- Create a counter using State
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
